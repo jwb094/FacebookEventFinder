@@ -1,0 +1,52 @@
+*{
+    color:white;
+}
+nav{
+    background-color:black;
+}
+
+h1 {
+    padding-left: 35%;
+    font-family: 'Josefin Slab', serif;
+}
+
+h2 {
+    padding-left: 36%;
+    font-family: 'Josefin Slab', serif;
+
+}
+
+body {
+    background-image:url("../img/event.jpg");
+}
+
+
+#SearchTitle{
+    font-family: 'Della Respira', serif; 
+    text-align: center;
+}
+a{
+    color: white;
+}
+ #map {
+        height: 400px;
+        width: 100%;
+        border:2px goldenrod solid;
+}
+
+#table-scroll {
+height: 400px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+.modal{
+    background-color:rgb(235, 82, 8);;
+}
+
+.modalIcons{
+	height: 1em;
+	margin-right: 15px;
+}
+
+
